@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: attempting to access a property of an undefined variable.  The `bug.as` file contains the erroneous code, which throws a runtime error. The `bugSolution.as` file provides a corrected version that handles the potential for undefined values.
